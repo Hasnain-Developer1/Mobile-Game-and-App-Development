@@ -1,6 +1,6 @@
 void main() {
   List<int> numbers = [59, 67, 29, 70, 71];
-  List<String> name = ["Hasnain", "Ali", "Faisal"];
+  // List<String> name = ["Hasnain", "Ali", "Faisal"];
 
   numbers.add(30);
   numbers.add(91); // 75 and 91 will be added to the list
